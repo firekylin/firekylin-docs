@@ -1,3 +1,4 @@
-- 安装
-- 导入
-- 升级
+- 新手指导
+    - 安装
+    - [导入](https://github.com/75team/firekylin/wiki/导入)
+    - [升级](https://github.com/75team/firekylin/wiki/升级)
