@@ -11,12 +11,20 @@
     - [更新](https://github.com/75team/firekylin/wiki/更新)
         - [在线更新](https://github.com/75team/firekylin/wiki/更新#在线更新)
         - [手动更新](https://github.com/75team/firekylin/wiki/更新#手动更新)
-    - [基本操作](https://github.com/75team/firekylin/wiki)
+    - 基本操作
         - 文章
         - 页面
         - 用户
         - 推送
-    - [自定义](https://github.com/75team/firekylin/wiki)
+    - 自定义
         - 系统设置
         - 主题外观
-- [主题开发](https://github.com/75team/firekylin/wiki)
+- 主题开发
+- 其它
+    - [问题解答](https://github.com/75team/firekylin/wiki/qa)
+        - 博客后台地址
+        - 文章设置摘要
+        - 如何修改端口
+        - 菜单属性设置
+        - emoji表情
+    - [贡献代码](https://github.com/75team/firekylin/wiki/贡献代码)
