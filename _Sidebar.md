@@ -20,11 +20,11 @@
         - 系统设置
         - 主题外观
 - 主题开发
-- 其它
+- [其它](https://github.com/75team/firekylin/wiki/qa)
     - [问题解答](https://github.com/75team/firekylin/wiki/qa)
-        - 博客后台地址
-        - 文章设置摘要
-        - 如何修改端口
-        - 菜单属性设置
-        - emoji表情
+        - [博客后台地址](https://github.com/75team/firekylin/wiki/qa#博客后台地址是什么？)
+        - [文章设置摘要](https://github.com/75team/firekylin/wiki/qa#文章如何设置摘要？)
+        - [如何修改端口](https://github.com/75team/firekylin/wiki/qa#如何修改端口？)
+        - [菜单属性设置](https://github.com/75team/firekylin/wiki/qa#后台菜单设置的菜单属性是什么？)
+        - [emoji表情](https://github.com/75team/firekylin/wiki/qa#如何添加emoji表情支持？)
     - [贡献代码](https://github.com/75team/firekylin/wiki/贡献代码)
