@@ -1,5 +1,6 @@
-- 新手指导
+- [新手指导](https://github.com/75team/firekylin/wiki)
     - [安装](https://github.com/75team/firekylin/wiki/安装)
+        - [仓库版安装](https://github.com/75team/firekylin/wiki/仓库版安装)
         - [Docker 安装](https://github.com/75team/firekylin/wiki/Docker_安装)
     - [导入](https://github.com/75team/firekylin/wiki/导入)
     - [更新](https://github.com/75team/firekylin/wiki/更新)
