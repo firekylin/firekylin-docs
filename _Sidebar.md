@@ -16,9 +16,9 @@
         - [页面](https://github.com/75team/firekylin/wiki/页面)
         - [用户](https://github.com/75team/firekylin/wiki/用户)
         - [推送](https://github.com/75team/firekylin/wiki/推送)
-    - 自定义
-        - 系统设置
-        - 主题外观
+    - [自定义](https://github.com/75team/firekylin/wiki/系统设置)
+        - [系统设置](https://github.com/75team/firekylin/wiki/系统设置)
+        - [主题外观](https://github.com/75team/firekylin/wiki/主题外观)
 - 主题开发
 - [其它](https://github.com/75team/firekylin/wiki/问题解答)
     - [问题解答](https://github.com/75team/firekylin/wiki/问题解答)
