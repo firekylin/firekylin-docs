@@ -1,7 +1,7 @@
 - [新手指导](https://github.com/75team/firekylin/wiki)
     - [安装](https://github.com/75team/firekylin/wiki/安装)
         - [仓库版安装](https://github.com/75team/firekylin/wiki/仓库版安装)
-        - [Docker 安装](https://github.com/75team/firekylin/wiki/Docker_安装)
+        - [Docker 安装](https://xlange.com/post/first-post.html)
     - [迁移](https://github.com/75team/firekylin/wiki/导入)
         - [WordPress](https://github.com/75team/firekylin/wiki/导入#wordpress)
         - [Hexo](https://github.com/75team/firekylin/wiki/导入#hexo)
