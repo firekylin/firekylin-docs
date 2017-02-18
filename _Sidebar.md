@@ -14,7 +14,7 @@
     - [基本操作](https://github.com/75team/firekylin/wiki/文章)
         - [文章](https://github.com/75team/firekylin/wiki/文章)
         - [页面](https://github.com/75team/firekylin/wiki/页面)
-        - 用户
+        - [用户](https://github.com/75team/firekylin/wiki/用户)
         - 推送
     - 自定义
         - 系统设置
