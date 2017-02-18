@@ -11,3 +11,11 @@
     - [更新](https://github.com/75team/firekylin/wiki/更新)
         - [在线更新](https://github.com/75team/firekylin/wiki/更新#在线更新)
         - [手动更新](https://github.com/75team/firekylin/wiki/更新#手动更新)
+    - [基本操作](https://github.com/75team/firekylin/wiki)
+        - 文章
+        - 页面
+        - 用户
+        - 推送
+    - [自定义](https://github.com/75team/firekylin/wiki)
+        - 系统设置
+        - 主题外观
