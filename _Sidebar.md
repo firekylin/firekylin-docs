@@ -19,3 +19,4 @@
     - [自定义](https://github.com/75team/firekylin/wiki)
         - 系统设置
         - 主题外观
+- [主题开发](https://github.com/75team/firekylin/wiki)
