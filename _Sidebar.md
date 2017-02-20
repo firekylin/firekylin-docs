@@ -27,4 +27,5 @@
         - [如何修改端口](https://github.com/75team/firekylin/wiki/问题解答#如何修改端口？)
         - [菜单属性设置](https://github.com/75team/firekylin/wiki/问题解答#后台菜单设置的菜单属性是什么？)
         - [emoji表情](https://github.com/75team/firekylin/wiki/问题解答#如何添加emoji表情支持？)
+        - [忘记密码怎么办](https://github.com/75team/firekylin/wiki/问题解答#忘记密码怎么办？)
     - [贡献代码](https://github.com/75team/firekylin/wiki/贡献代码)
