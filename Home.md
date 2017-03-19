@@ -2,7 +2,7 @@
 
 ## 什么是 Firekylin?
 
-Firekylin 是一个高效简介的[动态博客系统](https://github.com/75team/firekylin/issues/135)，整体基于 ThinkJS 框架，后台采用了 React 技术栈。
+Firekylin 是一个高效简洁的[动态博客系统](https://github.com/75team/firekylin/issues/135)，整体基于 ThinkJS 框架，后台采用了 React 技术栈。
 
 ## 安装
 
