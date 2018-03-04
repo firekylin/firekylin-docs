@@ -9,6 +9,7 @@
         - [Jekyll](https://github.com/75team/firekylin/wiki/导入#jekyll)
         - [Markdown文件](https://github.com/75team/firekylin/wiki/导入#markdown文件)
     - [更新](https://github.com/75team/firekylin/wiki/更新)
+        - [0.x=>1.x](https://github.com/firekylin/fireylin/wiki/0.x 升级至 1.x)
         - [在线更新](https://github.com/75team/firekylin/wiki/更新#在线更新)
         - [手动更新](https://github.com/75team/firekylin/wiki/更新#手动更新)
     - [基本操作](https://github.com/75team/firekylin/wiki/文章)
