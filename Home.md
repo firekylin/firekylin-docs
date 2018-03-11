@@ -12,7 +12,7 @@ Firekylin 是一个高效简洁的[动态博客系统](https://github.com/fireky
 
 安装前请确保你有以下的环境：
 
-- Node.js > 4.0
+- Node.js >= 8.9.4
 - MySQL 
 
 
