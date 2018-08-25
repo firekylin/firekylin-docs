@@ -20,6 +20,7 @@
     - [自定义](https://github.com/firekylin/firekylin/wiki/系统设置)
         - [系统设置](https://github.com/firekylin/firekylin/wiki/系统设置)
         - [主题外观](https://github.com/firekylin/firekylin/wiki/主题外观)
+        - [主题列表](https://github.com/firekylin/firekylin/wiki/主题列表)
 - [主题开发](https://github.com/firekylin/firekylin/wiki/主题开发)
 - [其它](https://github.com/firekylin/firekylin/wiki/问题解答)
     - [用户列表](https://github.com/firekylin/firekylin/wiki/用户列表)
