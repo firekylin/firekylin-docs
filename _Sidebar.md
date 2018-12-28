@@ -19,6 +19,7 @@
         - [推送](https://github.com/firekylin/firekylin/wiki/推送)
     - [自定义](https://github.com/firekylin/firekylin/wiki/系统设置)
         - [系统设置](https://github.com/firekylin/firekylin/wiki/系统设置)
+        - [添加评论](https://github.com/firekylin/firekylin/wiki/添加评论)
         - [主题外观](https://github.com/firekylin/firekylin/wiki/主题外观)
         - [主题列表](https://github.com/firekylin/firekylin/wiki/主题列表)
 - [主题开发](https://github.com/firekylin/firekylin/wiki/主题开发)
