@@ -1,2 +1,5 @@
-# firekylin-docs
-[Firekylin](https://firekylin.org) 文档仓库，可以到 https://github.com/75team/firekylin/wiki 中查看文档。
+# Firekylin 文档
+
+[开始阅读](Home.md)。目录见 [导航](_Sidebar.md)。
+
+新版文档以核心 2.15.0 源码为核对基准；部署前请确认目标 npm 包或镜像的实际版本。历史文档留作旧站点迁移参考。
