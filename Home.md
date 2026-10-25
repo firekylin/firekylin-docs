@@ -1,44 +1,38 @@
-欢迎使用 Firekylin，本文档将帮助您快速上手。如果您在使用过程中遇到问题，请查看 [问题解答](https://github.com/firekylin/firekylin/wiki/问题解答) 中的解答，或者在 [GitHub](https://github.com/firekylin/firekylin/issues) 上提问。
+# Firekylin 使用文档
 
-## 什么是 Firekylin?
+本文档面向 Firekylin 2.x，按安装、日常使用、扩展和迁移组织。历史基础文档保留，涉及版本差异时以新版指南为准。
 
-Firekylin 是一个高效简洁的[动态博客系统](https://github.com/firekylin/firekylin/issues/135)，整体基于 ThinkJS 框架，后台采用了 React 技术栈。
-
-## 安装
-
-详细的安装方法请参见 [安装](https://github.com/firekylin/firekylin/wiki/安装)。
-
-### 安装前提
-
-安装前请确保你有以下的环境：
-
-- Node.js >= 8.9.4
-- MySQL 
-
-
-## 升级，迁移以及导入
-
-- [开始升级](https://github.com/firekylin/firekylin/wiki/更新)
-- [从其他博客平台导入](https://github.com/firekylin/firekylin/wiki/导入)
-- [从Markdown文件导入](https://github.com/firekylin/firekylin/wiki/导入#markdown文件)
-
-## 如何使用
-
-- [添加和管理文章](https://github.com/firekylin/firekylin/wiki/文章)
-- [添加和管理页面](https://github.com/firekylin/firekylin/wiki/页面)
-- [添加和管理推送](https://github.com/firekylin/firekylin/wiki/推送)
-- [调整网站外观](https://github.com/firekylin/firekylin/wiki/主题外观)
-- [系统设置](https://github.com/firekylin/firekylin/wiki/系统设置)
-
-## 疑难解答
-
-- [博客后台地址](https://github.com/firekylin/firekylin/wiki/问题解答#博客后台地址是什么？)
-- [文章设置摘要](https://github.com/firekylin/firekylin/wiki/问题解答#文章如何设置摘要？)
-- [如何修改端口](https://github.com/firekylin/firekylin/wiki/问题解答#如何修改端口？)
-- [菜单属性设置](https://github.com/firekylin/firekylin/wiki/问题解答#后台菜单设置的菜单属性是什么？)
-- [emoji表情](https://github.com/firekylin/firekylin/wiki/问题解答#如何添加emoji表情支持？)
-
-## 开发者文档
-
-- [主题开发](https://github.com/firekylin/firekylin/wiki/主题开发)
-- [贡献代码](https://github.com/firekylin/firekylin/wiki/贡献代码)
+- 快速开始
+  - 安装部署
+    - [快速部署](%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2/%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2.md)
+    - [本地部署](%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2/%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2.md)
+    - [Docker 部署](%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2/Docker%20%E9%83%A8%E7%BD%B2.md)
+  - 基本操作
+    - [文章](%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/%E6%96%87%E7%AB%A0.md)
+    - [页面](%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/%E9%A1%B5%E9%9D%A2.md)
+    - [评论](%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/%E8%AF%84%E8%AE%BA.md)
+    - [用户](%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/%E7%94%A8%E6%88%B7.md)
+    - [AI接入](%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/AI%E6%8E%A5%E5%85%A5.md)
+  - 自定义
+    - [系统设置](%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/%E8%87%AA%E5%AE%9A%E4%B9%89/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AE.md)
+    - [主题外观](%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/%E8%87%AA%E5%AE%9A%E4%B9%89/%E4%B8%BB%E9%A2%98%E5%A4%96%E8%A7%82.md)
+    - [主题列表](%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/%E8%87%AA%E5%AE%9A%E4%B9%89/%E4%B8%BB%E9%A2%98%E5%88%97%E8%A1%A8.md)
+    - [插件安装](%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/%E8%87%AA%E5%AE%9A%E4%B9%89/%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85.md)
+- 特色功能
+  - [丰富的 AI 能力](%E7%89%B9%E8%89%B2%E5%8A%9F%E8%83%BD/%E4%B8%B0%E5%AF%8C%E7%9A%84%20AI%20%E8%83%BD%E5%8A%9B.md)
+  - [强大的插件扩展](%E7%89%B9%E8%89%B2%E5%8A%9F%E8%83%BD/%E5%BC%BA%E5%A4%A7%E7%9A%84%E6%8F%92%E4%BB%B6%E6%89%A9%E5%B1%95.md)
+  - [开放的主题模板](%E7%89%B9%E8%89%B2%E5%8A%9F%E8%83%BD/%E5%BC%80%E6%94%BE%E7%9A%84%E4%B8%BB%E9%A2%98%E6%A8%A1%E6%9D%BF.md)
+- 迁移指南
+  - [从其他博客迁移](%E8%BF%81%E7%A7%BB%E6%8C%87%E5%8D%97/%E4%BB%8E%E5%85%B6%E4%BB%96%E5%8D%9A%E5%AE%A2%E8%BF%81%E7%A7%BB.md)
+  - Firekylin 更新升级
+    - [1.x => 2.x](%E8%BF%81%E7%A7%BB%E6%8C%87%E5%8D%97/Firekylin%20%E6%9B%B4%E6%96%B0%E5%8D%87%E7%BA%A7/1.x%E5%8D%87%E7%BA%A7%E8%87%B32.x.md)
+    - [0.x => 1.x](%E8%BF%81%E7%A7%BB%E6%8C%87%E5%8D%97/Firekylin%20%E6%9B%B4%E6%96%B0%E5%8D%87%E7%BA%A7/0.x%E5%8D%87%E7%BA%A7%E8%87%B31.x.md)
+    - [更新升级](%E8%BF%81%E7%A7%BB%E6%8C%87%E5%8D%97/Firekylin%20%E6%9B%B4%E6%96%B0%E5%8D%87%E7%BA%A7/%E6%9B%B4%E6%96%B0%E5%8D%87%E7%BA%A7.md)
+- 进阶指引
+  - [AI管理](%E8%BF%9B%E9%98%B6%E6%8C%87%E5%BC%95/AI%E7%AE%A1%E7%90%86.md)
+  - [主题开发](%E8%BF%9B%E9%98%B6%E6%8C%87%E5%BC%95/%E4%B8%BB%E9%A2%98%E5%BC%80%E5%8F%91.md)
+  - [插件开发](%E8%BF%9B%E9%98%B6%E6%8C%87%E5%BC%95/%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91.md)
+- 其他
+  - [用户列表](%E5%85%B6%E4%BB%96/%E7%94%A8%E6%88%B7%E5%88%97%E8%A1%A8.md)
+  - [问题解答](%E5%85%B6%E4%BB%96/%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94.md)
+  - [贡献代码](%E5%85%B6%E4%BB%96/%E8%B4%A1%E7%8C%AE%E4%BB%A3%E7%A0%81.md)
